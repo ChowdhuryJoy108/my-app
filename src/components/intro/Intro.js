@@ -25,6 +25,7 @@ const Intro = () =>{
                 <p className="i-description">
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit ea laborum totam error veritatis repudiandae dolore porro rerum inventore!
                 </p>
+                
             </div>
             <svg
           width="75"
